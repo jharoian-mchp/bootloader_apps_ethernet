@@ -4098,7 +4098,7 @@
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/definitions.h</file>
-         <hash>1fd2df352c75d227d90836008756fb0c2579fc03a1f8cc4c08c4fc2121b4b99f</hash>
+         <hash>d4a89a3dd3288bc05064800174da0720942824efee9f178faa82b47427a9f758</hash>
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/device.h</file>
@@ -4190,7 +4190,7 @@
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/exceptions.c</file>
-         <hash>30b880390be9495d817d130a99612cbe4a21ce5f953a22bf77fc97872b770538</hash>
+         <hash>8c1843dacd6aec28ef12be3d763763a268e0facd02d4f1e7d67e21a8d73061d1</hash>
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/initialization.c</file>
@@ -4794,11 +4794,11 @@
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/peripheral/evic/plib_evic.c</file>
-         <hash>d52743d9739817145f4257e923db6104f086ad322785373b709ada316a478240</hash>
+         <hash>a92810b4fcbf232685744adbf92d1607fc8a48cc2b449b20c367b0d2256d5978</hash>
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/peripheral/evic/plib_evic.h</file>
-         <hash>d66a7a9d178e558f3f01fd25408d8471a59db19601934cb10d0668a2db876079</hash>
+         <hash>d1fec6ef0926472bfe0bfa15972adff5caf1a29f8741ce146f90f5efa45db06b</hash>
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/peripheral/gpio/plib_gpio.c</file>
