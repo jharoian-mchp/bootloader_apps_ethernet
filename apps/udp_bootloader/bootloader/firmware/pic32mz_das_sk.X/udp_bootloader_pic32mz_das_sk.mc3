@@ -4098,7 +4098,7 @@
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/definitions.h</file>
-         <hash>d4a89a3dd3288bc05064800174da0720942824efee9f178faa82b47427a9f758</hash>
+         <hash>1fd2df352c75d227d90836008756fb0c2579fc03a1f8cc4c08c4fc2121b4b99f</hash>
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/device.h</file>
@@ -4826,7 +4826,7 @@
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/system/debug/sys_debug.h</file>
-         <hash>6dc7375ac05501951020122a9baa63e17e9331e11423c70c8ddd3c0944fd632c</hash>
+         <hash>aa94da8f32cbcb40672145542d149d077ff8f4b25c08d47d53e3d206d1c6bb83</hash>
       </entry>
       <entry>
          <file>../src/config/pic32mz_das_sk/system/int/src/sys_int.c</file>
